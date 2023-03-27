@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game
-Website Link:  shivam9024.github.io/Tic-Tac-Toi-Game/
+Website Link:  https://shivam9024.github.io/Tic-Tac-Toi-Game/
 
 RULES FOR TIC-TAC-TOE :   
                   1. The game is played on a grid that's 3 squares by 3 squares.
